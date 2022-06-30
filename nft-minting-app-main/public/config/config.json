@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2C107bA7C86acE1d1AC054A5c3D25565d1BE9C0C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2c107ba7c86ace1d1ac054a5c3d25565d1be9c0c",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 80001
+  },
+  "NFT_NAME": "Rooster Heroes",
+  "SYMBOL": "RHFT",
+  "MAX_SUPPLY": 1299,
+  "WEI_COST": 40000000000000,
+  "DISPLAY_COST": 99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rooster-heroes",
+  "SHOW_BACKGROUND": true
+}
